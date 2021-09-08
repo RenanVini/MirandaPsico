@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background: #E6E6FA;
+  background: #FFE4B5;
   color: #FFF0F5;
   font-family: 'Poppins', helvetica;
   font-size: 15px;
@@ -128,7 +128,7 @@ p {
   background-color: transparent;
   border: 1px solid #999;
   border-radius: 0;
-  color: #999999;
+  color: #ffffff;
   font-size: 12px;
   font-weight: 500;
   height: 50px;
@@ -178,14 +178,14 @@ nav {
   background: #fff;
   z-index: 1000;
   width: 100%;
-  padding: 20px;
+  padding: 0px;
   display: none;
   box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.18);
 }
 
 .nav-menu {
   float: right;
-  line-height: 32px;
+  line-height: 10px;
   margin-bottom: 0;
   padding-top: 16px;
 }
@@ -203,7 +203,7 @@ nav ul li a {
   position: relative;
   display: block;
   font-size: 14px;
-  color: #999999;
+  color: #ffffff;
   font-family: 'Poppins', helvetica;
   font-weight: 500;
   line-height: 16px;
@@ -404,7 +404,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #DDA0DD;
+  color: #eb6a14;
   line-height: 44px;
 }
 
@@ -430,7 +430,7 @@ nav ul li a {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #DDA0DD;
+  background-color: #eb6a14;
 }
 
 .owl-nav {
@@ -462,13 +462,13 @@ nav ul li a {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #999999;
+  color: #ffffff;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #DDA0DD;
+  color: #eb6a14;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -510,7 +510,7 @@ nav ul li a {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #DDA0DD;
+  color: #eb6a14;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover, #portfolio .portfolio-item .portfolio-info .details-link:hover {
@@ -557,7 +557,7 @@ nav ul li a {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #DDA0DD!important;
+  background-color: #eb6a14!important;
 }
 
 .portfolio-details .portfolio-info {
@@ -659,7 +659,7 @@ nav ul li a {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: #DDA0DD;
+  color: #eb6a14;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -807,7 +807,7 @@ nav ul li a {
 }
 
 .journal-txt h4 a:hover {
-  color: #DDA0DD;
+  color: #eb6a14;
   transition: all 0.5s ease-in-out 0s;
 }
 
